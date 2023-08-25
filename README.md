@@ -1,6 +1,6 @@
 # ecommerce_teste
 
-Repo para fins didaticos
+Repo para fins **_didaticos_**
 
 ## Funcionalidades
 
