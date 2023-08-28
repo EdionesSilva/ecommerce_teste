@@ -30,3 +30,7 @@ checkout, tela de produto, catálogo, home com banner
 ### Imagem local
 
 ![Logo do python](img/Python.png)
+
+### Imagem externa
+
+![Logo PHP](https://www.php.net/images/logos/new-php-logo.svg)
