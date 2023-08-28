@@ -38,3 +38,9 @@ checkout, tela de produto, catálogo, home com banner
 ### Links interessantes
 
 [google](https://www.google.com)
+
+[https://www.cdlsantaines.org.br](https://www.cdlsantaines.org.br)
+
+Contribuidor principal: https://www.github.com/https://github.com/EdionesSilva
+
+[![Logo PHP](https://www.php.net/images/logos/new-php-logo.svg)](https://www.github.com/EdionesSilva)
