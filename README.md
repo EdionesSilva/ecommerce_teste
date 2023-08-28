@@ -34,3 +34,7 @@ checkout, tela de produto, catálogo, home com banner
 ### Imagem externa
 
 ![Logo PHP](https://www.php.net/images/logos/new-php-logo.svg)
+
+### Links interessantes
+
+[google](https://www.google.com)
