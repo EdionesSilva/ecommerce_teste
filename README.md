@@ -41,6 +41,6 @@ checkout, tela de produto, catálogo, home com banner
 
 [https://www.cdlsantaines.org.br](https://www.cdlsantaines.org.br)
 
-Contribuidor principal: https://www.github.com/https://github.com/EdionesSilva
+Contribuidor principal: https://github.com/EdionesSilva
 
 [![Logo PHP](https://www.php.net/images/logos/new-php-logo.svg)](https://www.github.com/EdionesSilva)
