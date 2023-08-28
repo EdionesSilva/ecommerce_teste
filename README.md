@@ -44,3 +44,11 @@ checkout, tela de produto, catálogo, home com banner
 Contribuidor principal: https://github.com/EdionesSilva
 
 [![Logo PHP](https://www.php.net/images/logos/new-php-logo.svg)](https://www.github.com/EdionesSilva)
+
+### Código da função soma
+
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+```
