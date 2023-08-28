@@ -45,10 +45,17 @@ Contribuidor principal: https://github.com/EdionesSilva
 
 [![Logo PHP](https://www.php.net/images/logos/new-php-logo.svg)](https://www.github.com/EdionesSilva)
 
-### Código da função soma
+## Código da função soma
 
 ```javascript
 function soma(a, b) {
     return a + b;
 }
 ```
+
+## Lista de tarefas a fazer
+
+- [ x ] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus
+- [ x ] CSS do rodapé
